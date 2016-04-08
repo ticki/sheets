@@ -1,0 +1,42 @@
+EUCLID'S ALGORITHM FOR GCD(a, b)
+
+while b ≠ 0
+    t ← b
+    b ← a mod b
+    a ← t
+return a
+
+GAUSS–LEGENDRE ALGORITHM FOR APPROXIMATING π
+
+a ← 1
+b ← 1 / √2
+t ← ¼
+p ← 1
+n ← 0
+
+while (a - b)² > c
+    x ← a
+    a ← ½ (a + b)
+    b ← √(xb)
+    t ← t - p(x - a)²
+    p ← 2p
+
+4π ≈ (a + b)² / t
+
+BINARY SEARCH FOR t IN A OF n ELEMENTS
+
+L ← 0
+H ← n - 1
+
+while L <= R
+    m ← floor ½(L + R)
+
+    if Aₘ > t
+        H ← m - 1
+    else if Aₘ < t
+        L ← m + 1
+    else
+        return m
+return L
+
+
