@@ -9,7 +9,7 @@ Segment registers:
 CS         : Contains the Code Segment, where the program runs.
 DS         : Contains the Data Segment, which the program accesses.
 SS         : Contains the Stack Segment, which the program uses.
-ES, FS, GS : Extra segment registers, for for far pointers.
+ES, FS, GS : Extra segment registers, for far pointers.
 
 Pointer and offset registers:
 
