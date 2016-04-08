@@ -1,0 +1,21 @@
+Abbreviation   Origin                Modern meaning
+────────────────────────────────────────────────────────────────────
+A.M.           ante meridiem         before midday
+AD             anno domini           after year zero
+P.M.           post meridiem         after midday
+P.S.           post scriptum         by the way
+R.I.P.         requiescat in pace    rest in peace
+Re             in re                 concerning
+ca.            circa                 approximately
+cf.            confer                compare
+e.g.           exempli gratia        for example
+et al.         et alii               and others
+etc.           et cetera             and so on
+i.a.           inter alia            among other things
+i.e.           id est                that isj
+id./eam.       idem                  the same (person, author, etc.)
+nb.            nota bene             important
+p.a.           per annum             for a year
+q.v.           quod vide             see elsewhere
+s.o.s.         si opus sit           if necessary
+stat.          statim                immediately

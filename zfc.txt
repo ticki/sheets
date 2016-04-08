@@ -1,0 +1,9 @@
+Axiom of extensionality
+
+∀x.∀y.[∀z.[z∈x ⇔ z∈y] ⇒ x = y]
+
+Axiom of regularity
+
+∀x.[∃a.[a∈x] ⇒ ∃y........]
+
+TODO: Unicode, I hate you.

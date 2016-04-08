@@ -1,0 +1,10 @@
+Name            Best            Average         Worst            Memory
+Quicksort       O(n log n)      O(n log n)      O(n²)            O(log n)
+Merge sort      O(n log n)      O(n log n)      O(n log n)       O(n)
+Heapsort        O(n log n)      O(n log n)      O(n log n)       1
+Insertion sort  O(n)            O(n²)           O(n²)            1
+Selection sort  O(n²)           O(n²)           O(n²)            1
+Timsort         O(n)            O(n log n)      O(n log n)       O(n)
+Shell sort      O(n)            O(n log² n)     O(n log² n)      1
+Bubble sort     O(n)            O(n²)           O(n²)            1
+Bogosort        O(n)            O(n n!)         O(MFG!!)         1

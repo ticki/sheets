@@ -1,0 +1,135 @@
+General purpose registers:
+
+32 bits: EAX EBX ECX EDX
+16 bits: AX  BX  CX  DX
+ 8 bits: AH  AL  BH  BL CH CL DH DL
+
+Segment registers:
+
+CS         : Contains the Code Segment, where the program runs.
+DS         : Contains the Data Segment, which the program accesses.
+SS         : Contains the Stack Segment, which the program uses.
+ES, FS, GS : Extra segment registers, for for far pointers.
+
+Pointer and offset registers:
+
+EDI, DI           : Destination index register.
+ESI, SI           : Source index register.
+EBP, BP           : Stack Base Pointer.
+ESP, SP           : Stack Pointer.
+EIP, IP (aka. PC) : Instruction Pointer.
+
+Misc registers:
+
+EFLAGS : Holds the process state (see the table below).
+
+EFLAGS
+
+The EFLAGS register holds the state of the CPU, described in bit flags. The table below gives an overview of the flags.
+
+Bit   Label    Desciption
+───────────────────────────────────────────
+0      CF      Carry Flag
+2      PF      Parity Flag
+4      AF      Auxiliary carry Flag
+6      ZF      Zero Flag
+7      SF      Sign Flag
+8      TF      Trap Flag
+9      IF      Interrupt enable Flag
+10     DF      Direction Flag
+11     OF      Overflow Flag
+12-13  IOPL    I/O Privilege Level
+14     NT      Nested Task flag
+16     RF      Resume Flag
+17     VM      Virtual 8086 Mode flag
+18     AC      Alignment Check flag
+19     VIF     Virutal Interrupt Flag
+20     VIP     Virtual Interrupt Pending flag
+21     ID      ID flag
+
+
+Original 8086/8088 instructions
+
+Instr.            Opcode
+────────────────────────────────────────────────────
+AAA               0x37
+AAD               0xD5
+AAM               0xD4
+AAS               0x3f
+ADC               0x10…0x15, 0x80/2…0x83/2
+ADD               0x00…0x05, 0x80/0…0x83/0
+AND               0x20…0x25, 0x80/4…0x83/4
+CALL              0x9A, 0xE8, 0xFF/2, 0xFF/3
+CBW               0x98
+CLC               0xF8
+CLD               0xFC
+CLI               0xFA
+CMC               0xF5
+CMP               0x38…0x3D, 0x80/7…0x83/7
+CMPSB             0xA6
+CMPSW             0xA7
+CWD               0x99
+DAA               0x27
+DAS               0x2F
+DEC               0x48, 0xFE/1, 0xFF/1
+DIV               0xF6/6, 0xF7/6
+ESC
+HLT               0xF4
+IDIV              0xF6/7, 0xF7/7
+IMUL              0x69, 0x6B, 0xF6/5, 0xF7/5, 0x0FAF
+IN                0xE4, 0xE5, 0xEC, 0xED
+INC               0x40, 0xFE/0, 0xFF/0
+INT               0xCD
+INTO              0xCE
+IRET              0xCF
+Jcc               0x70…0x7F, 0xE3, 0x0F83, 0x0F87
+JCXZ              0xE3
+JMP               0xE9…0xEB, 0xFF/4, 0xFF/5
+LAHF              0x9F
+LDS               0xC5
+LEA               0x8D
+LES               0xC4
+LOCK              0xF0
+LODSB             0xAC
+LODSW             0xAD
+LOOP/LOOPx        0xE0..0xE2
+MOV
+MOVSB             0xA4
+MOVSW             0xA5
+MUL
+NEG
+NOP               0x90
+NOT
+OR
+OUT
+POP
+POPF              0x9D
+PUSH
+PUSHF             0x9C
+RCL
+RCR
+REPxx
+RET
+RETN
+RETF
+ROL
+ROR
+SAHF              0x9E
+SAL
+SAR
+SBB
+SCASB             0xAE
+SCASW             0xAF
+SHL
+SHR
+STC               0xF9
+STD               0xFD
+STI               0xFB
+STOSB             0xAA
+STOSW             0xAB
+SUB
+TEST
+WAIT              0x9B
+XCHG
+XLAT              0xD7
+XOR

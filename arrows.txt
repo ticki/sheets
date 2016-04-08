@@ -1,0 +1,45 @@
+X = unassigned codepoint
+
+        0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+U+219x  ←  ↑  →  ↓  ↔  ↕  ↖  ↗  ↘  ↙  ↚  ↛  ↜  ↝  ↞  ↟
+U+21Ax  ↠  ↡  ↢  ↣  ↤  ↥  ↦  ↧  ↨  ↩  ↪  ↫  ↬  ↭  ↮  ↯
+U+21Bx  ↰  ↱  ↲  ↳  ↴  ↵  ↶  ↷  ↸  ↹  ↺  ↻  ↼  ↽  ↾  ↿
+U+21Cx  ⇀  ⇁  ⇂  ⇃  ⇄  ⇅  ⇆  ⇇  ⇈  ⇉  ⇊  ⇋  ⇌  ⇍  ⇎  ⇏
+U+21Dx  ⇐  ⇑  ⇒  ⇓  ⇔  ⇕  ⇖  ⇗  ⇘  ⇙  ⇚  ⇛  ⇜  ⇝  ⇞  ⇟
+U+21Ex  ⇠  ⇡  ⇢  ⇣  ⇤  ⇥  ⇦  ⇧  ⇨  ⇩  ⇪  ⇫  ⇬  ⇭  ⇮  ⇯
+U+21Fx  ⇰  ⇱  ⇲  ⇳  ⇴  ⇵  ⇶  ⇷  ⇸  ⇹  ⇺  ⇻  ⇼  ⇽  ⇾  ⇿
+
+
+Supplemental arrows A
+        0   1   2   3   4   5   6   7   8   9   A   B   C   D   E   F
+U+27Fx  ⟰   ⟱   ⟲   ⟳   ⟴   ⟵   ⟶   ⟷   ⟸   ⟹   ⟺   ⟻   ⟼   ⟽   ⟾   ⟿
+
+Supplemental arrows B
+        0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+U+290x  ⤀  ⤁  ⤂  ⤃  ⤄  ⤅  ⤆  ⤇  ⤈  ⤉  ⤊  ⤋  ⤌  ⤍  ⤎  ⤏
+U+291x  ⤐  ⤑  ⤒  ⤓  ⤔  ⤕  ⤖  ⤗  ⤘  ⤙  ⤚  ⤛  ⤜  ⤝  ⤞  ⤟
+U+292x  ⤠  ⤡  ⤢  ⤣  ⤤  ⤥  ⤦  ⤧  ⤨  ⤩  ⤪  ⤫  ⤬  ⤭  ⤮  ⤯
+U+293x  ⤰  ⤱  ⤲  ⤳  ⤴  ⤵  ⤶  ⤷  ⤸  ⤹  ⤺  ⤻  ⤼  ⤽  ⤾  ⤿
+U+294x  ⥀  ⥁  ⥂  ⥃  ⥄  ⥅  ⥆  ⥇  ⥈  ⥉  ⥊  ⥋  ⥌  ⥍  ⥎  ⥏
+U+295x  ⥐  ⥑  ⥒  ⥓  ⥔  ⥕  ⥖  ⥗  ⥘  ⥙  ⥚  ⥛  ⥜  ⥝  ⥞  ⥟
+U+296x  ⥠  ⥡  ⥢  ⥣  ⥤  ⥥  ⥦  ⥧  ⥨  ⥩  ⥪  ⥫  ⥬  ⥭  ⥮  ⥯
+U+297x  ⥰  ⥱  ⥲  ⥳  ⥴  ⥵  ⥶  ⥷  ⥸  ⥹  ⥺  ⥻  ⥼  ⥽  ⥾  ⥿
+
+Supplemental arrows B
+         0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+U+1F80x  🠀  🠁  🠂  🠃  🠄  🠅  🠆  🠇  🠈  🠉  🠊  🠋  X  X  X  X
+U+1F81x  🠐  🠑  🠒  🠓  🠔  🠕  🠖  🠗  🠘  🠙  🠚  🠛  🠜  🠝  🠞  🠟
+U+1F82x  🠠  🠡  🠢  🠣  🠤  🠥  🠦  🠧  🠨  🠩  🠪  🠫  🠬  🠭  🠮  🠯
+U+1F83x  🠰  🠱  🠲  🠳  🠴  🠵  🠶  🠷  🠸  🠹  🠺  🠻  🠼  🠽  🠾  🠿
+U+1F84x  🡀  🡁  🡂  🡃  🡄  🡅  🡆  🡇  X  X  X  X  X  X  X  X
+U+1F85x  🡐  🡑  🡒  🡓  🡔  🡕  🡖  🡗  🡘  🡙  X  X  X  X  X  X
+U+1F86x  🡠  🡡  🡢  🡣  🡤  🡥  🡦  🡧  🡨  🡩  🡪  🡫  🡬  🡭  🡮  🡯
+U+1F87x  🡰  🡱  🡲  🡳  🡴  🡵  🡶  🡷  🡸  🡹  🡺  🡻  🡼  🡽  🡾  🡿
+U+1F88x  🢀  🢁  🢂  🢃  🢄  🢅  🢆  🢇  X  X  X  X  X  X  X  X
+U+1F89x  🢐  🢑  🢒  🢓  🢔  🢕  🢖  🢗  🢘  🢙  🢚  🢛  🢜  🢝  🢞  🢟
+U+1F8Ax  🢠  🢡  🢢  🢣  🢤  🢥  🢦  🢧  🢨  🢩  🢪  🢫  🢬  🢭  X  X
+U+1F8Bx  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+U+1F8Cx  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+U+1F8Dx  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+U+1F8Ex  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
+U+1F8Fx  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X  X
