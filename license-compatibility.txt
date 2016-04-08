@@ -1,0 +1,13 @@
+COMPATIBLE WITH >  PD  MIT  BSD  AL  LGPL  LGPL+  LGPL3  MPL  GPL  GPL+  GPL3  AGPL
+Public Domain      ✔   ✔    .    .   .     .      .      .    .    .     .     .
+MIT                .   ✔    ✔    .   .     .      .      .    .    .     .     .
+BSD-new            .   .    ✔    ✔   ✔     ✔      ✔      ✔    .    .     .     .
+Apache 2.0         .   .    .    ✔   .     .      ✔      .    .    .     .     .
+LGPLv2.1           .   .    .    .   ✔     .      .      .    ✔    ✔     .     .
+LGPLv2.1+          .   .    .    .   ✔     ✔      ✔      .    ✔    .     .     .
+LGPLv3(+)          .   .    .    .   .     .      ✔      .    .    .     ✔     .
+MPL 1.1            .   .    .    .   .     .      .      ✔    .    .     .     .
+GPLv2              .   .    .    .   .     .      .      .    ✔    .     .     .
+GPLv2+             .   .    .    .   .     .      .      .    ✔    ✔     ✔     .
+GPLv3(+)           .   .    .    .   .     .      .      .    .    .     ✔     ✔
+AGPL               .   .    .    .   .     .      .      .    .    .     .     ✔
