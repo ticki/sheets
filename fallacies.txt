@@ -1,36 +1,43 @@
-Anecdotal fallacy — Using personal experience as evidence.
-Appeal to authority — Basing an argument on authority, expertise, or experience.
-Appeal to motive — Dismissing an argument due to asserted bias or motives of the proposer.
-Appeal to nature — Assuming that something is good because it is 'natural'.
-Argument from fallacy — Assuming the conclusion is false because the argument is unsound.
-Argument from personal incredulity — Stating that a proposition is false, since it is the conclusion is unimaginable.
-Association fallacy — Assuming that association of two parties makes them inherit properties from each other.
-Begging the question — Providing the conclusion as premise.
-Cherry picking — Suppressing evidence that do not support the particular position.
-Correlation proves causation — Assuming that a variable correlating with another variable implies that it is causing it too.
-Etymological fallacy — Basing an argument on the historical meaning of a word.
-Fallacy of composition — Assuming that some part of a claim is true, therefore the whole claim is true.
-Fallacy of relative privation — Dismissing an argument, with the reason of existence of worse conditions.
-Fallacy of the beard — Rejecting a claim as imprecise.
-False attribution — Basing an argument on an irrelevant, unqualified, unidentified, biased or fabricated source.
-False dichotomy — Assuming that two claims are mutually exclusive or the only possible options, while they are not.
-False equivalence — Basing an argument on an equivalence which do not exist.
-Hasty generalization — Generalizing a claim based on a small sample of evidence.
-Historian's fallacy — Assuming that a (historical) person had the same information available.
-Masked man fallacy — Illicit substitution of identicals.
-Moving the goalposts — Dismissing evidence previously requested, asking for stronger evidence without reason thereof.
-Nirvana fallacy — Rejecting a solution, since it is not perfect.
-Overwhelming exception — Dismissing counter-arguments by creating exceptions to a prior claim.
-Pathos argument — Basing an argument on emotions.
-    * Fear mongering — Basing an argument on unsubstantiated fear.
-Shifting the burden of proof — Stating something without proof and assuming that the opponent has the obligation to prove it false
-Thought-terminating cliché — Using a commonly used phrase without proper reasoning.
-argumentum ad hitlereum — Comparing a person to a historical person without proper reasoning.
-argumentum ad hominem — Basing an argument on personal criticism of the opponent.
-    * ergo decedo — Responding to a criticism by encouraging leaving the group, instead of actually addressing the issue.
-    * tu quoque — Basing an argument on the opponent's prior actions or inconsistency.
-argumentum ad ignorantiam — Assuming that a claim is true because it has not been proven false.
-argumentum ad lapidem — Dismissing an claim as absurd without a proper reason.
-argumentum ad populum — Basing an argument on consensus about the conclusion.
-    * argumentum ad trumpum — Basing an argument about a given group on the popularity amongst them.
-argumentum ex silentio — Concluding based on the absence of evidence, rather than the existence of evidence.
+Anecdotal fallacy                   — Using personal experience as evidence.
+Appeal to authority                 — Basing an argument on authority, expertise, or experience.
+Appeal to motive                    — Dismissing an argument due to asserted bias or motives of the proposer.
+Appeal to nature                    — Assuming that something is good because it is 'natural'.
+Argument from fallacy               — Assuming the conclusion is false because the argument is unsound.
+Argument from personal incredulity  — Stating that a proposition is false, since it is the conclusion is unimaginable.
+Association fallacy                 — Assuming that association of two parties makes them inherit properties
+|                                     from each other.
+Begging the question                — Providing the conclusion as premise.
+Cherry picking                      — Suppressing evidence that do not support the particular position.
+Correlation proves causation        — Assuming that a variable correlating with another variable implies that it is
+|                                     causing it too.
+Etymological fallacy                — Basing an argument on the historical meaning of a word.
+Fallacy of composition              — Assuming that some part of a claim is true, therefore the whole claim is true.
+Fallacy of relative privation       — Dismissing an argument, with the reason of existence of worse conditions.
+Fallacy of the beard                — Rejecting a claim as imprecise.
+False attribution                   — Basing an argument on an irrelevant, unqualified, unidentified, biased or fabricated
+|                                     source.
+False dichotomy                     — Assuming that two claims are mutually exclusive or the only possible options,
+|                                     while they are not.
+False equivalence                   — Basing an argument on an equivalence which do not exist.
+Hasty generalization                — Generalizing a claim based on a small sample of evidence.
+Historian's fallacy                 — Assuming that a (historical) person had the same information available.
+Masked man fallacy                  — Illicit substitution of identicals.
+Moving the goalposts                — Dismissing evidence previously requested, asking for stronger evidence without
+|                                     reason thereof.
+Nirvana fallacy                     — Rejecting a solution, since it is not perfect.
+Overwhelming exception              — Dismissing counter-arguments by creating exceptions to a prior claim.
+Pathos argument                     — Basing an argument on emotions.
+    * Fear mongering                — Basing an argument on unsubstantiated fear.
+Shifting the burden of proof        — Stating something without proof and assuming that the opponent has the obligation
+|                                     to prove it false
+Thought-terminating cliché          — Using a commonly used phrase without proper reasoning.
+argumentum ad hitlereum             — Comparing a person to a historical person without proper reasoning.
+argumentum ad hominem               — Basing an argument on personal criticism of the opponent.
+    * ergo decedo                   — Responding to a criticism by encouraging leaving the group, instead of actually
+|                                     addressing the issue.
+    * tu quoque                     — Basing an argument on the opponent's prior actions or inconsistency.
+argumentum ad ignorantiam           — Assuming that a claim is true because it has not been proven false.
+argumentum ad lapidem               — Dismissing an claim as absurd without a proper reason.
+argumentum ad populum               — Basing an argument on consensus about the conclusion.
+    * argumentum ad trumpum         — Basing an argument about a given group on the popularity amongst them.
+argumentum ex silentio              — Concluding based on the absence of evidence, rather than the existence of evidence.
